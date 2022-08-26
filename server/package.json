@@ -1,0 +1,19 @@
+{
+  "name": "recaptcha-demo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/sellomkantjwa/vue-recaptcha-demo.git",
+  "author": "Sello Mkantjwa <giza182@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cors": "2.8.4",
+    "express": "4.16.2",
+    "nodemon": "^2.0.19",
+    "request": "2.83.0"
+  }
+}
